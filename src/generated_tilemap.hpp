@@ -20,6 +20,7 @@ class GeneratedTileMap : public TileMap {
     int64_t _min_room_size{5};
     int64_t _max_room_size{20};
     int64_t _room_amount{30};
+
 };
 
 } // namespace godot
